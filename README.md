@@ -1,16 +1,44 @@
-<h1 align = "center"> Olá 👋, Eu sou o Daniel Leon </h1>
-<h3 align = "center"> Desenvolvedor Jr. de backend e estudante da rybe </h3>
+<h2> Olá, por aqui o Daniel Leon.</h2>
 
-<h3 align = "left"> Conectar comigo: </h3>
-<p align = "left">
-<a href="https://linkedin.com/in/leoncomunicador" target="blank"> <img align = "center" src = "https: //raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg "alt =" leoncomunicador "height =" 30 "largura =" 40 "/> </a>
+<h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
+
+- 🤔 &nbsp; Desenvolvedor Jr. de backend e estudante da Trybe.
+<!-- - 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
+- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+ -->
+<h3> 🛠 &nbsp;Tecnologias</h3>
+
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+<br/>
+
+<a href="https://github.com/leoncomunicador">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leoncomunicador&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoncomunicador&theme=buefy&layout=compact" />
+</a>
+
+<br/>
+
+<h3> 🤝🏻 &nbsp;Contato</h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/leoncomunicador/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-leoncomunicador-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:daniel_leon@terra.com.br"><img alt="Email" src="https://img.shields.io/badge/Email-daniel_leon@terra.com.br-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-<h3 align =" left "> Idiomas e ferramentas: </h3>
-<p align = "left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src = "https: //raw.githubusercontent. com / devicons / devicon / master / icons / css3 / css3-original-wordmark.svg "alt =" css3 "width =" 40 "height =" 40 "/> </a> <a href =" https: // expressjs.com "target =" _ blank "rel =" noreferrer "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg "alt = "express" width = "40" height = "40" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt = "git" width = "40" height = "40" /> </a> < a href = "https://heroku.com" target = "_ blank" rel = "noreferrer"> <img src = "https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt = "heroku" width = "40" height = "40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt = "html5" width = "40" height = "40" /> </ a> <a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript "target =" _ blank "rel =" noreferrer "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/ icons / javascript / javascript-original.svg "alt =" javascript "width =" 40 "height =" 40 "/> </a> <a href =" https://www.linux.org/ "target =" _blank "rel =" noreferrer "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg "alt =" linux "largura =" 40 "altura = "40" /> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src = "https: //raw.githubusercontent.com / devicons / devicon / master / icons / mongodb / mongodb-original-wordmark.svg "alt =" mongodb "width =" 40 "height =" 40 "/> </a> <a href =" https: // www.mysql.com/ "target =" _ blank "rel =" noreferrer "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg "alt =" mysql "width =" 40 "height =" 40 "/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt = "nodejs" largura = "40" altura = "40" /> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python /python-original.svg "alt =" python "width =" 40 "height =" 40 "/> </a> <a href =" https://reactjs.org/ "target =" _ blank "rel =" noreferrer "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg "alt =" react "largura =" 40 "altura =" 40 "/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src =" https: //raw.githubusercontent.com / devicons / devicon / master / icons / redux / redux-original.svg "alt =" redux "largura =" 40 "altura =" 40 "/> </a> </p>
-
-<p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=leoncomunicador&show_icons=true&locale=en&layout=compact" alt = "leoncomunicador" /> </p>
-
-<p> & nbsp; <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=leoncomunicador&show_icons=true&locale=en" alt = "leoncomunicador" /> </p>
-
-<p> <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=leoncomunicador&" alt = "leoncomunicador" /> </p>
