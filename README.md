@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Desenvolvedor Jr. de backend e estudante da Trybe.
+- 🤔 &nbsp; Sou formado em Publicidade e Propaganda (FURB), durante muitos anos trabalhei em emissoras de rádio e desde 2020 estou numa nova empreitada e buscando uma nova profissão. Atualmente sou Desenvolvedor Jr. de backend e estudante da Trybe.
 <!-- - 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
 - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
